@@ -1,0 +1,7 @@
+{
+  "name": "ZenStudy: Notebooks & Flashcards",
+  "description": "A minimalist, intuitive study application for organizing PDF/image materials, making annotations, and generating AI flashcards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
